@@ -104,6 +104,17 @@ div.textbox {
   box-shadow: 0px 0px 50px #3d7a65;
   resize: both;
   overflow: auto;
+  position: fixed;
+}
+div.textbox-discord_invite {
+  left: auto;
+  right: auto;
+  background-color: #474747;
+  border: 3px solid;
+  border-color: #191919;
+  box-shadow: 0px 0px 50px #3d7a65;
+  resize: both;
+  overflow: auto;
 }
 a {
   text-decoration: none;
