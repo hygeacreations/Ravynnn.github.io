@@ -113,3 +113,15 @@ a {
 a:hover {
   color: white;
 }
+div.footer {
+  background: #55d6aa;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: i;
+  height: 5%;
+  border-top: 5px solid #4ba888;
+  text-align: center;
+  font-size: 10px;
+}
