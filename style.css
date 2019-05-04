@@ -104,6 +104,7 @@ div.textbox {
   box-shadow: 0px 0px 50px #3d7a65;
   resize: both;
   overflow: auto;
+  width: 70%;
 }
 a {
   text-decoration: none;
