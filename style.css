@@ -92,6 +92,8 @@ h1.headertitle {
 p.text {
   font-size: 20px;
   color: #c8c3cc;
+  text-align: justify;
+  padding: 10px;
 }
 p.white {
   font-size: 20px;
